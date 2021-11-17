@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Multiline</string>
+    <string name="hardcode">Jakub \nWyczanowski</string>
 </resources>
